@@ -1,0 +1,6 @@
+D:\Batch205\Day04\sLatihanDay04\caCompareTheTriplets\bin\Debug\caCompareTheTriplets.exe.config
+D:\Batch205\Day04\sLatihanDay04\caCompareTheTriplets\obj\Debug\caCompareTheTriplets.csprojResolveAssemblyReference.cache
+D:\Batch205\Day04\sLatihanDay04\caCompareTheTriplets\bin\Debug\caCompareTheTriplets.exe
+D:\Batch205\Day04\sLatihanDay04\caCompareTheTriplets\bin\Debug\caCompareTheTriplets.pdb
+D:\Batch205\Day04\sLatihanDay04\caCompareTheTriplets\obj\Debug\caCompareTheTriplets.exe
+D:\Batch205\Day04\sLatihanDay04\caCompareTheTriplets\obj\Debug\caCompareTheTriplets.pdb
